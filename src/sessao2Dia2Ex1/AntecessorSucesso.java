@@ -2,7 +2,7 @@ package sessao2Dia2Ex1;
 
 import java.util.Scanner;
 
-//Ao digitar um número, recebe um texto com o número antecessor e sucessor
+//Ao digitar um número, recebe um texto com o número antecessor e sucessor.
  
 public class AntecessorSucesso {
 
